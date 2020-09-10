@@ -1,0 +1,6 @@
+2020-09-07 18:16:37,903 INFO c.m.e.l.StartApplication [main] Starting StartApplication on HariSomagatta with PID 21052 (started by Hari Somagatta in C:\Users\Hari Somagatta\eclipse-workspace-spring\spring-log4j2-example)
+2020-09-07 18:16:37,910 DEBUG c.m.e.l.StartApplication [main] Running with Spring Boot v2.1.2.RELEASE, Spring v5.1.4.RELEASE
+2020-09-07 18:16:37,910 INFO c.m.e.l.StartApplication [main] No active profile set, falling back to default profiles: default
+2020-09-07 18:16:40,868 INFO c.m.e.l.StartApplication [main] Started StartApplication in 3.418 seconds (JVM running for 4.715)
+2020-09-07 18:17:26,034 DEBUG c.m.e.l.HelloController [http-nio-8080-exec-2] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+2020-09-07 18:17:26,035 DEBUG c.m.e.l.HelloController [http-nio-8080-exec-2] Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
